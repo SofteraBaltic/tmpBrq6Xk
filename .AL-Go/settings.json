@@ -1,6 +1,10 @@
 {
   "country": "us",
-  "appFolders": [],
-  "testFolders": [],
+  "appFolders": [
+    "My App"
+  ],
+  "testFolders": [
+    "My App.Test"
+  ],
   "bcptTestFolders": []
 }
